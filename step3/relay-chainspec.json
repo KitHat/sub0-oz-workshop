@@ -3,7 +3,7 @@
   "id": "rococo_local_testnet",
   "chainType": "Local",
   "bootNodes": [
-    "/ip4/188.166.214.53/tcp/43049/ws/p2p/12D3KooWQCkBm1BYtkHpocxCwMgR8yjitEeHGx8spzcDLGt2gkBm"
+    "/ip4/188.166.214.53/tcp/33839/ws/p2p/12D3KooWQCkBm1BYtkHpocxCwMgR8yjitEeHGx8spzcDLGt2gkBm"
   ],
   "telemetryEndpoints": null,
   "protocolId": "dot",
