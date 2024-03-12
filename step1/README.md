@@ -4,7 +4,7 @@
 cargo build --release
 ```
 
-* Build the template with asynchronous backing enabled
+* Build the template with [asynchronous backing](https://wiki.polkadot.network/docs/learn-async-backing) enabled
 
 ```
 cargo build --release --features="async-backing"
